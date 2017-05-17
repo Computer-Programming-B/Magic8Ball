@@ -1,6 +1,6 @@
 Magic 8 Ball
 ============
-Download [Magic8BAll.zip](https://github.com/APCSPrinciples/Magic8Ball/blob/master/Magic%208%20Ball.zip?raw=true) and extract the files. The folder holds artwork for a magic 8 ball.
+Download [Magic8BAll.zip](https://github.com/APCSPrinciples/Magic8Ball/blob/master/Magic%208%20Ball.zip?raw=true) and extract the files. The zip file contains a folder with the artwork for a magic 8 ball.
  
 For full credit, your finished program should
 + Provide an answer based on user input (e.g. tapping, shaking, etc.)
