@@ -7,7 +7,7 @@ In this project we will recreate the [magic 8 ball toy](https://www.magic8ball.o
 For full credit, your finished program should
 + Provide an answer based on user input (e.g. clicking the mouse or typing on the keyboard)
 + Store the answers in a list
-+ Use on of Python's `random` functions to choose one answer randomly from the list and display it
++ Use one of Python's `random` functions to choose one answer randomly from the list and display it
 + Use Python's turtle graphics to display a suituable picture
  
 Have fun and be creative. Your magic 8 ball app doesn't have to work or look like anyone else's. (Students in the past have used different artwork to create apps like "Ask the magic olive", "Ask Al Gore" or "Ask Bootsy Collins.") 
