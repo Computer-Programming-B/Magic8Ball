@@ -51,6 +51,9 @@ circle(175)
 end_fill()
 done()
 ```
- 
+ 2. Add code to finish the look of your 8 ball or other design. You may find the `write` function helpful. For example `write('8',align="center",font=("Arial", 180, "bold"))` will write a very large 8.
+ 3. Move the code that draws your design to it's own function
+ 4. Ask the user to enter their questions using the `textinput` function and store the question in a variable 
+ 5. Write a while loop that continues to allow the user to ask questions until they indicate that they are done
 
 
