@@ -1,4 +1,5 @@
-![](Magic8Ball.gif)
+![](Magic8Ball.gif)   
+
 Magic 8 Ball
 ============
 In this project we will recreate the [magic 8 ball toy](https://www.magic8ball.org/inside-the-magic-8-ball/) using turtle graphics in Python.
