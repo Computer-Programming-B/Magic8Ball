@@ -2,7 +2,7 @@
 
 Magic 8 Ball
 ============
-In this project we will recreate the [magic 8 ball toy](https://www.magic8ball.org/inside-the-magic-8-ball/) using turtle graphics in Python.
+In this project we will recreate the [magic 8 ball toy](https://www.magic8ball.org/inside-the-magic-8-ball/) using turtle graphics in Python. You may find slides 87 - 94 of the [Computer Programming B slide presentation](https://docs.google.com/presentation/d/1rICcmNbnGYsB-cV_6EatPyzcOS2sId80Jh2kayUzm4Q/edit?usp=sharing) helpful.
  
 For full credit, your finished program should
 + Provide an answer based on user input (e.g. clicking the mouse or typing on the keyboard)
