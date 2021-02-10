@@ -38,16 +38,16 @@ The original Magic 8 Ball toy had 20 answers. You can use these answers or creat
 
 Suggested steps to get started
 ------------------------------
-1. You will need two `import` statements
+1. You will need two `import` statements at the top of the program
 ```python
 import turtle
 from random import *
-
 ```
- 2. Add code to create the look of your 8 ball or other design.  will write a very large 8.
- 3. Move the code that draws your design to it's own function
- 4. Ask the user to enter their questions using the `textinput` function and store the question in a variable 
- 4. Display a random answer useing the the `write` function
- 5. Write a while loop that continues to allow the user to ask questions until they indicate that they are done
+2. Add code to create the look of your 8 ball or other design.  will write a very large 8.
+3. Move the code that draws your design to it's own function
+4. Ask the user to enter their questions using the `textinput` function and store the question in a variable 
+5. Display a random answer useing the the `write` function
+6. Write a while loop that continues to allow the user to ask questions until they indicate that they are done
+7. You may find the `turtle.clearscreen()` function helpful in erasing the previous answer
 
 
