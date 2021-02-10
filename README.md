@@ -43,8 +43,8 @@ Suggested steps to get started
 import turtle
 from random import *
 ```
-2. Add code to create the look of your 8 ball or other design.  will write a very large 8.
-3. Move the code that draws your design to it's own function
+2. *Define* a function using the Python keyword `def` that draws your 8 ball or other design.
+3. Call the function after its definition
 4. Ask the user to enter their questions using the `textinput` function and store the question in a variable 
 5. Display a random answer useing the the `write` function
 6. Write a while loop that continues to allow the user to ask questions until they indicate that they are done
