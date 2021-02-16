@@ -46,7 +46,7 @@ from random import *
 2. *Define* a function using the Python keyword `def` that draws your 8 ball or other design.
 3. Call the function after its definition
 4. Ask the user to enter their questions using the `textinput` function and store the question in a variable 
-5. Create a list of answers, for example, `answers = ["yes","no,"maybe"]`
+5. Create a list of answers, for example, `answers = ["yes","no","maybe"]`
 6. Display a random answer useing the the `write()` and `randint()` function (see slides 150-152 for examples)
 7. Write a `while` loop that continues to allow the user to ask questions until they indicate that they are done
 8. You may find the `turtle.clearscreen()` function helpful in erasing the previous answer
