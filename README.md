@@ -2,14 +2,6 @@ Magic 8 Ball
 ============
 In this project we will recreate the [magic 8 ball toy](https://www.magic8ball.org/inside-the-magic-8-ball/) using turtle graphics in Python. You may find slides 144 - 160 of the [Computer Programming B slide presentation](https://docs.google.com/presentation/d/1rICcmNbnGYsB-cV_6EatPyzcOS2sId80Jh2kayUzm4Q/edit?usp=sharing) helpful.
  
-Program Requirements
--------------------
-For full credit, your finished program should
-+ Provide an answer based on user input (e.g. clicking the mouse or typing on the keyboard)
-+ Store the answers in a list
-+ Use one of Python's `random` functions to choose one answer randomly from the list and display it
-+ Define at least one function (e.g. a function that uses Python's turtle graphics to display a suituable picture)
- 
 Have fun and be creative. Your magic 8 ball app doesn't have to work or look like anyone else's. (Students in the past have used different artwork to create apps like "Ask the magic olive", "Ask Al Gore" or "Ask Bootsy Collins.") 
  
 The original Magic 8 Ball toy had 20 answers. You can use these answers or create your own:
@@ -33,6 +25,14 @@ The original Magic 8 Ball toy had 20 answers. You can use these answers or creat
 + My sources say no
 + Outlook not so good
 + Very doubtful
+
+Program Requirements
+-------------------
+For full credit, your finished program should
++ Provide an answer based on user input (e.g. clicking the mouse or typing on the keyboard)
++ Store the answers in a list
++ Use one of Python's `random` functions to choose one answer randomly from the list and display it
++ Define at least one function (e.g. a function that uses Python's turtle graphics to display a suituable picture)
 
 Suggested steps to get started
 ------------------------------
