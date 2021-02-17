@@ -49,6 +49,6 @@ from random import *
 7. Write a `while` loop that continues to allow the user to ask questions until they indicate that they are done
 8. You may find the `turtle.clearscreen()` function helpful in erasing the previous answer
 
-Suggested steps to get started
+Samples of Student Work
 ------------------------------
 [Diego](Diego8Ball.gif)   
